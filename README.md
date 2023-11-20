@@ -30,6 +30,3 @@ To use the project, follow these steps:
 
 The dataset used in this project is the [FER-2013 dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from Kaggle.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
